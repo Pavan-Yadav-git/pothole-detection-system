@@ -60,7 +60,7 @@ tmp/
 *.tmp
 
 # Model files (keep git LFS if using)
-*.pt
+
 *.pth
 *.onnx
 *.pb
